@@ -6,9 +6,10 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "@craco/craco": "^5.6.4",
+    "@project-serum/associated-token": "0.1.0",
     "@project-serum/awesome-serum": "1.0.1",
-    "@project-serum/pool": "^0.1.1",
-    "@project-serum/serum": "^0.13.13",
+    "@project-serum/pool": "^0.2.0",
+    "@project-serum/serum": "^0.13.14",
     "@project-serum/sol-wallet-adapter": "^0.1.1",
     "@solana/web3.js": "0.86.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -43,7 +44,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write src"
   },
   "eslintConfig": {
     "extends": "react-app"
