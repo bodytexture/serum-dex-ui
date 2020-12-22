@@ -1582,7 +1582,16 @@
     bn.js "^5.1.2"
     buffer-layout "^1.2.0"
 
-"@project-serum/serum@^0.13.14", "@project-serum/serum@^0.13.8":
+"@project-serum/serum@^0.13.16":
+  version "0.13.16"
+  resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.16.tgz#bdaffc346a42842e33672772c44b9a7497ed0a97"
+  integrity sha512-F0cMpW+B8+nUldMkgwYgGZjPP7JztF8QWVlBpcqStW8dHbq1QLgUjhiakEwUhAH9VxqJYECLDLVqXGcvkq2pIQ==
+  dependencies:
+    "@solana/web3.js" "0.86.1"
+    bn.js "^5.1.2"
+    buffer-layout "^1.2.0"
+
+"@project-serum/serum@^0.13.8":
   version "0.13.14"
   resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.14.tgz#f39e6d3d1aaab811fbec17a304c926522e477299"
   integrity sha512-a/Irc8L+K2rOsJcl2xRKWJtc8WCqf6O4iWhlOOKhI+e0mTEvRUmecXn0yzqnUIUwgRmtavmirJAzXFnjCpbKww==
